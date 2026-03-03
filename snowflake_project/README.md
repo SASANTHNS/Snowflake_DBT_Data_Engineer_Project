@@ -1,13 +1,13 @@
-Welcome to your new dbt project!
+# Welcome to Your New dbt Project
 
-Using the starter project
-Try running the following commands:
+Congratulations on setting up your new **dbt (Data Build Tool)** project.
 
+---
+
+## 🚀 Getting Started
+
+To get started with your project, try running the following commands in your terminal:
+
+```bash
 dbt run
 dbt test
-Resources:
-Learn more about dbt in the docs
-Check out Discourse for commonly asked questions and answers
-Join the chat on Slack for live discussions and support
-Find dbt events near you
-Check out the blog for the latest news on dbt's development and best practices
